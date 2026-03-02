@@ -1,6 +1,6 @@
 # ✨ DocuMind AI
 
-> Ultra-Premium AI-Powered Document Intelligence Platform  
+> AI-Powered Document Intelligence Platform  
 > Built with Groq Llama 3.1, FAISS, HuggingFace Embeddings & Streamlit
 
 ---
