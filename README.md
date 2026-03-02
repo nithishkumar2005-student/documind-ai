@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [View Live App](https://your-app-url.streamlit.app)
+🌐 [View Live App](https://qfvmzkj6jud7f5buw3mutt.streamlit.app/)
 
 ---
 
